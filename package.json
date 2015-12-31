@@ -1,0 +1,25 @@
+{
+  "name": "react-webpack-babel-starter2",
+  "version": "1.0.0",
+  "description": "Read this first:\r https://blog.stamplay.com/getting-started-with-react-es6-webpack/\r https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "html-webpack-plugin": "^1.7.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.9"
+  }
+}
