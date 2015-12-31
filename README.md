@@ -21,7 +21,13 @@ Using Command Prompt do a git clone of this repo somewhere on your system:
 
 cd to the folder where you have git cloned the repo.
 
-### Install necessary modules using npm:
+### Install all necessary modules using either:
+
+```
+$ npm install
+```
+
+Or if you want to go for a one by one approach, then do:
 
 ```
 $ npm install react --save
