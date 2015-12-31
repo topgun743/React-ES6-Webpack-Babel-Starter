@@ -48,7 +48,7 @@ Open Browser and go to:
 ```
 
 
-By now you must be owing me a cup of coffee or a pack of nice chocolates :)
+By now you must be owing me a cup of coffee or a pack of some nice chocolates :)
 
 
 
