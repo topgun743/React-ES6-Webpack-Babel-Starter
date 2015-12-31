@@ -28,6 +28,7 @@ $ npm install react --save
 $ npm install react-dom --save
 $ npm install css-loader style-loader --save-dev
 $ npm install webpack --save-dev
+$ npm install html-webpack-plugin --save-dev
 $ npm install webpack-dev-server -g
 $ npm install babel-loader --save-dev 
 $ npm install babel-core --save-dev 
