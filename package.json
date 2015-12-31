@@ -1,8 +1,12 @@
 {
   "name": "react-webpack-babel-starter2",
   "version": "1.0.0",
-  "description": "Read this first:\r https://blog.stamplay.com/getting-started-with-react-es6-webpack/\r https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html",
+  "description": "A boilerplate sample for making oneself started with React, ES2015/ES6, Webpack, Babel",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topgun743/React-ES6-Webpack-Babel-Starter.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
