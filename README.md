@@ -57,7 +57,17 @@ Open Browser and go to:
 
 By now you must be owing me a cup of coffee or a pack of some nice chocolates :)
 
+### [Update]
+For the sake of demo purposes and calling React modules from Javascript I have modified Hello.jsx and index.jsx files.
+I have exposed Hello module to consumer js. The sample on page load at present shows name and age, example:
 
+```Hello Dude. You are 20.```
+
+You can call this Hello module from javascript/console like so:
+
+```
+	Util.renderHelloFromConsole({id: "test1", name:"Tom", age: 27});
+```
 
 
 
