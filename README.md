@@ -21,13 +21,13 @@ Using Command Prompt do a git clone of this repo somewhere on your system:
 
 cd to the folder where you have git cloned the repo.
 
-### Install all necessary modules using either:
+#### Install all necessary modules using either:
 
 ```
 $ npm install
 ```
 
-Or if you want to go for a one by one approach, then do:
+#### Or if you want to go for a one by one approach, then do:
 
 ```
 $ npm install react --save
@@ -42,7 +42,7 @@ $ npm install babel-preset-es2015 --save-dev
 $ npm install babel-preset-react --save-dev 
 ```
 
-### Run the sample
+#### Run the sample
 
 ```
 $ webpack-dev-server --progress --colors
